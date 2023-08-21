@@ -1,9 +1,7 @@
-### Hi there 👋
+
 # Hey, I'm Nura Kassim 👋
 
 Welcome to my GitHub profile! I'm passionate about technology, coding, and bringing creative ideas to life through programming. Here, you'll find a collection of my projects, contributions, and explorations in the world of software development.
-
-![Girl Coding](https://link.to/your/girl-coding-image.jpg)
 
 ## About Me
 
