@@ -12,7 +12,7 @@ I'm a dedicated software developer with expertise in both Java and Python Flask.
 - 👯 I’m looking to collaborate on open source Flask projects or any exciting web development endeavors.
 - 💬 Ask me about Java, Python Flask, or any coding-related topics.
 - 📫 How to reach me: [nurakassim70@gmail.com].
-- 😄 Pronouns: [e.g., she/her, he/him, they/them].
+- 😄 Pronouns: [she/her].
 - ⚡ Fun fact: [I hate Movies].
 
 
